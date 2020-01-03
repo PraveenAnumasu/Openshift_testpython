@@ -1,1 +1,1 @@
-# Openshift_testpython
+# Simple test application of python builder image
